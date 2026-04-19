@@ -19,3 +19,4 @@ cp tag-notes/tag-notes.md ~/.claude/skills/tag-notes.md
 |-------|--------|-------------|
 | [obsidian](./obsidian/) | `/obsidian` | Read, write, and search an Obsidian vault using the CLI or filesystem tools |
 | [tag-notes](./tag-notes/) | `/tag-notes [folder]` | Scan a folder of Markdown notes and apply relevant frontmatter tags |
+| [catchup](./catchup/) | `/catchup [path]` | Get a concise project briefing from git history and key files to start sessions efficiently |
